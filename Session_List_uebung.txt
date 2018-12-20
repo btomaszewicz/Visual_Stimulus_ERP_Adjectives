@@ -1,0 +1,7 @@
+practice-green-umbrella.png practice-green-umbrella-yes.png 1 practice 200 2
+practice-klar-tee.png practice-klar-tee-yes.png 3 practice 200 2
+practice-white.png practice-white-no.png 7 practice 200 1
+practice-leicht-ball.png practice-leicht-ball-yes.png 4 practice 200 2
+practice-loud.png practice-loud-no.png 8 practice 200 1
+practice-orange.png practice-orange-yes.png 6 practice 200 2
+practice-schwer-stuehl.png practice-schwer-stuehl-no.png 5 practice 200 1

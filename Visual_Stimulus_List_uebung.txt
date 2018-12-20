@@ -1,0 +1,7 @@
+practice-green-umbrella-yes.png *Das *ist *grün.
+practice-klar-tee-yes.png *Das *ist *klar.
+practice-white-no.png *Das *ist *weiss.
+practice-leicht-ball-yes.png *Das *ist *leicht.
+practice-loud-no.png *Das *ist *laut.
+practice-orange-yes.png *Das *ist *orange.
+practice-schwer-stuehl-no.png *Das *ist *schwer.
